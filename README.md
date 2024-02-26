@@ -1,6 +1,9 @@
 
 <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> Hey! Nice to see you.<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> </h1>
-<p>Welcome to my page! </br> I'm <b>Utsab Samanta </b>, I completed my B.Tech from <b>National Institute of Technology, Durgapur </b> in Computer Science and Engineering, currently living in <b>Delhi, India</b>. </p>
+<p><b>Welcome to my page!</b> </br> I'm <b>Utsab Samanta </b>, I'm a passionate Software Engineer enthusiast eager to explore the ever-expanding realms of technology and innovation.
+I'm a recent graduate with a <b>B.Tech</b> degree in <b>Computer Science and Engineering</b> from <b>National Institute of Technology, Durgapur</b>.
+I'm excited about contributing to open-source projects and collaborating with like-minded individuals.
+I'm constantly seeking opportunities to learn and grow in the tech community.
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-045B78?style=flat-square&logo=Python)
@@ -17,6 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-utsabsamanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsab-samanta-5ba788222)](https://www.linkedin.com/in/utsabsamanta/)
 [![Gmail Badge](https://img.shields.io/badge/-utsabsamanta28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utsabsamanta28@gmail.com)](mailto:utsabsamanta@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@samanta.utsab-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/samanta.utsab)](https://instagram.com/samanta.utsab)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=utsab280499)
 
