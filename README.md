@@ -1,6 +1,5 @@
 
-<h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> Hey! Nice to see you.<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> </h1>
-<p><b>Welcome to my page!</b> </br> I'm <b>Utsab Samanta </b>, I'm a passionate Software Engineer enthusiast eager to explore the ever-expanding realms of technology and innovation.
+<h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> Hey! Nice to see you.<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> </h1></br> I'm <b>Utsab Samanta </b>, I'm a passionate Software Engineer enthusiast eager to explore the ever-expanding realms of technology and innovation.
 I'm a recent graduate with a <b>B.Tech</b> degree in <b>Computer Science and Engineering</b> from <b>National Institute of Technology, Durgapur</b>.
 I'm excited about contributing to open-source projects and collaborating with like-minded individuals.
 I'm constantly seeking opportunities to learn and grow in the tech community.
